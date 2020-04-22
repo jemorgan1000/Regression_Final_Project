@@ -1,6 +1,6 @@
 # Regression Final Project
 
-## Joshua Morgan, Will Espinoza Final Project
+## Joshua Morgan, Will Espinoza
 
 
 ## Objective
